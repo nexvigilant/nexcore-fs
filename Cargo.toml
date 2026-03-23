@@ -1,0 +1,12 @@
+
+[package]
+name = "nexcore-fs"
+version = "0.1.0"
+edition = "2024"
+license = "LicenseRef-NexVigilant-Proprietary"
+authors = ["NexVigilant Team"]
+description = "Zero-dependency filesystem utilities (dirs, walkdir, glob, temp, expand) for NexCore ecosystem"
+rust-version = "1.85"
+
+[lints]
+workspace = true
